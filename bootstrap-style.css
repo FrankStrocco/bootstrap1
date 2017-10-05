@@ -1,0 +1,43 @@
+.col-sm-5{
+  height: 100px;
+  background-color: #808080;
+  color: white;
+  text-align: center;
+  border: 2px solid black;
+}
+
+
+.logo {
+  float: left;
+  padding-right: 5px;
+}
+
+p {
+  color: white;
+}
+
+.box {
+  padding: 5px;
+  height: 135px;
+}
+
+h5 {
+  color: lightgreen;
+  margin: 5px;
+}
+
+
+.footer {
+  text-align: center;
+  background-color: #7D7D7D;
+  color: lightgreen;
+  font-size: 1.2em;
+  padding: 10px 0px;
+  margin-top: 15px;
+}
+
+.jumbotron {
+  background-color: #7D7D7D;
+  color: lightgreen;
+  text-align: center;
+}
